@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hmis:Sources xmlns:hmis='xmlns:airs="http://www.clarityhumanservices.com/schema/6/1/AIRS_3_0_mod.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hmis="http://www.clarityhumanservices.com/schema/6/1/HUD_HMIS.xsd"'>
+  <hmis:Source>
+    <hmis:SourceID>CA-502</hmis:SourceID>
+    <hmis:Export>
+      <hmis:ExportID>123</hmis:ExportID>
+      <hmis:Client hmis:DateCreated="2005-02-01T13:36:00" hmis:DateUpdated="10/30/2017 9:25" hmis:userID="0">
+        <hmis:PersonalID>1</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Test</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1"/>
+        <hmis:LastName hashstatus="1">Test</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>1</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">111111111</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>5/23/1972</hmis:DOB>
+        <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>0</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>1</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>99</hmis:Gender>
+        <hmis:VeteranStatus>1</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-09T11:14:00" hmis:DateUpdated="8/17/2016 11:17" hmis:userID="16">
+        <hmis:PersonalID>3</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">AB</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1"/>
+        <hmis:LastName hashstatus="1">81275</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>2</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1"/>
+        <hmis:SSNDataQuality>9</hmis:SSNDataQuality>
+        <hmis:DOB>4/27/1958</hmis:DOB>
+        <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T17:34:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>4</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Martin</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">K</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Palmatier</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">560254398</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>7/28/1958</hmis:DOB>
+        <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>0</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>1</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T17:39:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>5</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Clarence</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1"/>
+        <hmis:LastName hashstatus="1">Jackson</hmis:LastName>
+        <hmis:NameSuffix>Jr</hmis:NameSuffix>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">569155697</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>5/2/1957</hmis:DOB>
+        <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T17:49:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>6</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Michelle</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">L</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Davis</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">556550369</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>10/15/1978</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>1</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>0</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T18:30:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>7</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Mark</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">A</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Leeper</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">296640082</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>1/29/1961</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T18:44:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>8</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Edward</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">N</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Newtop</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">546587471</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>7/9/1938</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>0</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>1</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>1</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T19:18:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>9</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Jim</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1"/>
+        <hmis:LastName hashstatus="1">Will</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">15613151</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>10/14/1950</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>0</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>1</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>1</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-10T19:41:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:PersonalID>10</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Armando</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">D</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Tanori</hmis:LastName>
+        <hmis:NameSuffix>Jr.</hmis:NameSuffix>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">546810368</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>3/7/1984</hmis:DOB>
+        <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>1</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>0</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>1</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>1</hmis:Ethnicity>
+        <hmis:Gender>1</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-16T12:01:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="22">
+        <hmis:PersonalID>11</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Sharron</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">M</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Clark</hmis:LastName>
+        <hmis:NameSuffix>Ms</hmis:NameSuffix>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">545067733</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>8/24/1959</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>0</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-16T12:09:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="20">
+        <hmis:PersonalID>12</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Victoria</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">S</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Duggan</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">545474938</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>4/30/1969</hmis:DOB>
+        <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>0</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>1</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>0</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-16T12:18:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="22">
+        <hmis:PersonalID>13</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Nedrina</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">D</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Thacker</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">572185972</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>2/24/1962</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>0</hmis:Gender>
+        <hmis:VeteranStatus>0</hmis:VeteranStatus>
+      </hmis:Client>
+      <hmis:Client hmis:DateCreated="2005-06-16T12:25:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="20">
+        <hmis:PersonalID>14</hmis:PersonalID>
+        <hmis:FirstName hashstatus="1">Signe</hmis:FirstName>
+        <hmis:MiddleName hashstatus="1">T</hmis:MiddleName>
+        <hmis:LastName hashstatus="1">Moses</hmis:LastName>
+        <hmis:NameSuffix/>
+        <hmis:NameDataQuality>99</hmis:NameDataQuality>
+        <hmis:SSN hashstatus="1">419946672</hmis:SSN>
+        <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+        <hmis:DOB>3/3/1959</hmis:DOB>
+        <hmis:DOBDataQuality>99</hmis:DOBDataQuality>
+        <hmis:AmIndAKNative>0</hmis:AmIndAKNative>
+        <hmis:Asian>0</hmis:Asian>
+        <hmis:BlackAfAmerican>1</hmis:BlackAfAmerican>
+        <hmis:NativeHIOtherPacific>0</hmis:NativeHIOtherPacific>
+        <hmis:White>0</hmis:White>
+        <hmis:RaceNone/>
+        <hmis:Ethnicity>0</hmis:Ethnicity>
+        <hmis:Gender>0</hmis:Gender>
+        <hmis:VeteranStatus>1</hmis:VeteranStatus>
+      </hmis:Client>
+    </hmis:Export>
+  </hmis:Source>
+</hmis:Sources>

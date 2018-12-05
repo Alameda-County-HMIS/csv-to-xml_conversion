@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hmis:Sources xmlns:airs="http://www.clarityhumanservices.com/schema/6/1/AIRS_3_0_mod.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:hmis="http://www.clarityhumanservices.com/schema/6/1/HUD_HMIS.xsd">
+    <hmis:Source>
+        <hmis:SourceID>12345</hmis:SourceID>
+        <hmis:SourceType>1</hmis:SourceType>
+        <hmis:SourceName>Alameda County Test</hmis:SourceName>
+        <hmis:SoftwareName>Clarity HS</hmis:SoftwareName>
+        <hmis:SoftwareVersion>3</hmis:SoftwareVersion>
+        <hmis:SourceContactEmail>trevor.mells@acgov.org</hmis:SourceContactEmail>
+        <hmis:SourceContactExtension>56109</hmis:SourceContactExtension>
+        <hmis:SourceContactFirst>Trevor</hmis:SourceContactFirst>
+        <hmis:SourceContactLast>Mells</hmis:SourceContactLast>
+        <hmis:SourceContactPhone>5106706109</hmis:SourceContactPhone>
+        <hmis:Export>
+            <hmis:ExportID>test01</hmis:ExportID>
+            <hmis:ExportDate>2015-02-27T23:14:59</hmis:ExportDate>
+            <hmis:ExportPeriod>
+                <hmis:StartDate>2015-01-04T23:14:59</hmis:StartDate>
+                <hmis:EndDate>2015-03-26T23:14:59Z</hmis:EndDate>
+            </hmis:ExportPeriod>
+            <hmis:ExportPeriodType>effective</hmis:ExportPeriodType>
+            <hmis:ExportDirective>other</hmis:ExportDirective>
+            <hmis:Affiliation hmis:dateCreated="2016-04-11T23:14:59Z" hmis:dateUpdated="2015-05-30T23:14:59" hmis:userID="nf">
+                <hmis:AffiliationID>76yt</hmis:AffiliationID>
+                <hmis:ProjectID>15</hmis:ProjectID>
+                <hmis:ResProjectID>15</hmis:ResProjectID>
+            </hmis:Affiliation>
+            <hmis:Client hmis:dateCreated="2016-04-11T23:14:59Z" hmis:dateUpdated="2019-05-30T23:14:59" hmis:userID="ned100">
+                <hmis:PersonalID>01</hmis:PersonalID>
+                <hmis:FirstName hmis:hashStatus="1">Tom</hmis:FirstName>
+                <hmis:LastName hmis:hashStatus="1">Myspace</hmis:LastName>
+                <hmis:NameDataQuality>1</hmis:NameDataQuality>
+                <hmis:SSN hmis:hashStatus="1">010010101</hmis:SSN>
+                <hmis:SSNDataQuality>1</hmis:SSNDataQuality>
+                <hmis:DOB>1982-05-23</hmis:DOB>
+                <hmis:DOBDataQuality>1</hmis:DOBDataQuality>
+                <hmis:Gender>9</hmis:Gender>
+                <hmis:Ethnicity>0</hmis:Ethnicity>
+                <hmis:Race>8</hmis:Race>
+                <hmis:VeteranStatus>9</hmis:VeteranStatus>
+                <hmis:c_client_phone_primary>9876543210</hmis:c_client_phone_primary>				
+            </hmis:Client>
+            <hmis:Enrollment hmis:dateCreated="2015-05-08T23:14:59" hmis:dateUpdated="2019-01-27T23:14:59Z" hmis:userID="Hc8CQeYVWWj0dA9cWkDLe">
+                <hmis:EnrollmentID>w5642</hmis:EnrollmentID>
+                <hmis:PersonalID>01</hmis:PersonalID>
+                <hmis:ProjectID>15</hmis:ProjectID>
+                <hmis:EntryDate>2018-04-13</hmis:EntryDate>
+                <hmis:HouseholdID>a34563w</hmis:HouseholdID>
+                <hmis:RelationshipToHoH>1</hmis:RelationshipToHoH>
+                <hmis:PreviousStreetESSH>1</hmis:PreviousStreetESSH>
+                <hmis:DateToStreetESSH>2015-04-01</hmis:DateToStreetESSH>
+                <hmis:TimesHomelessPastThreeYears>2</hmis:TimesHomelessPastThreeYears>
+                <hmis:MonthsHomelessPastThreeYears>103</hmis:MonthsHomelessPastThreeYears>
+                <hmis:DisablingCondition>9</hmis:DisablingCondition>
+            </hmis:Enrollment>
+            <hmis:EnrollmentCoC hmis:dataCollectionStage="1" hmis:informationDate="2015-06-24" hmis:dateCreated="2016-02-13T23:14:59Z"
+                 hmis:dateUpdated="2016-02-19T23:14:59" hmis:userID="DU5m">
+                <hmis:EnrollmentCoCID>56332</hmis:EnrollmentCoCID>
+                <hmis:EnrollmentID>w5642</hmis:EnrollmentID>
+                <hmis:HouseholdID>a34563w</hmis:HouseholdID>
+                <hmis:CoCCode>CA-502</hmis:CoCCode>
+            </hmis:EnrollmentCoC>
+            <hmis:Organization hmis:dateCreated="2015-02-17T23:14:59" hmis:dateUpdated="2016-02-29T23:14:59" hmis:userID="ptravis">
+                <hmis:OrganizationID>34</hmis:OrganizationID>
+                <hmis:OrganizationName>Helping People, Inc.</hmis:OrganizationName>
+                <hmis:OrganizationCommonName>Helping</hmis:OrganizationCommonName>
+            </hmis:Organization>
+            <hmis:Project hmis:dateCreated="2016-02-17T23:14:59" hmis:dateUpdated="2015-03-14T23:14:59Z" hmis:userID="j2ZsRLAPv">
+                <hmis:ProjectID>15</hmis:ProjectID>
+                <hmis:OrganizationID>34</hmis:OrganizationID>
+                <hmis:ProjectName>Residence Enablers</hmis:ProjectName>
+                <hmis:ContinuumProject>0</hmis:ContinuumProject>
+                <hmis:ProjectType>3</hmis:ProjectType>
+                <hmis:OperatingStartDate>2017-01-01</hmis:OperatingStartDate>
+                <hmis:TrackingMethod>0</hmis:TrackingMethod>
+                <hmis:TargetPopulation>4</hmis:TargetPopulation>
+                <hmis:ProjectCommonName>Residence Enablers</hmis:ProjectCommonName>
+            </hmis:Project>
+            <hmis:CoC  hmis:dateCreated="2015-11-22T23:14:59" hmis:dateUpdated="2015-10-11T23:14:59Z" hmis:userID="bmerriweather">
+                <hmis:CoCCode>CA-502</hmis:CoCCode>
+                <hmis:ProjectID>15</hmis:ProjectID>
+            </hmis:CoC>
+        </hmis:Export>
+    </hmis:Source>
+</hmis:Sources>

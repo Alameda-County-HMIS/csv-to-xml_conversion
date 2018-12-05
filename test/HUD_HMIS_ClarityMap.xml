@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<map:Map xmlns:map="http://www.clarityhumanservices.com/schema/6/1/mapping.xsd">
+  <Source>
+    <SourceID>12345</SourceID>
+  </Source>
+  <Programs>
+    <Program>
+      <ClarityID>31</ClarityID>
+      <ExternalID>15</ExternalID>
+    </Program>
+  </Programs>
+  <ServiceItems>
+    <ServiceItem>
+      <ClarityID>33</ClarityID>
+      <ExternalID>str1234</ExternalID>
+    </ServiceItem>
+  </ServiceItems>
+</map:Map>
