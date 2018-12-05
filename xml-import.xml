@@ -25,6 +25,23 @@
         <hmis:Gender>99</hmis:Gender>
         <hmis:VeteranStatus>1</hmis:VeteranStatus>
       </hmis:Client>
+      <hmis:ClientVeteranStatus hmis:DateCreated="2005-02-01T13:36:00" hmis:DateUpdated="10/30/2017 9:25" hmis:userID="0">
+        <hmis:ClientVeteranInfoID>1vet</hmis:ClientVeteranInfoID>
+        <hmis:PersonalID>1</hmis:PersonalID>
+        <hmis:YearEnteredService/>
+        <hmis:YearSeparated/>
+        <hmis:WorldWarII/>
+        <hmis:KoreanWar/>
+        <hmis:VietnamWar/>
+        <hmis:DesertStorm/>
+        <hmis:AfghanistanOEF/>
+        <hmis:IraqOIF/>
+        <hmis:IraqOND/>
+        <hmis:OtherTheater/>
+        <hmis:MilitaryBranch/>
+        <hmis:DischargeStatus/>
+        <hmis:DateCreated>2/1/2005 13:36</hmis:DateCreated>
+      </hmis:ClientVeteranStatus>
       <hmis:Client hmis:DateCreated="2005-06-09T11:14:00" hmis:DateUpdated="8/17/2016 11:17" hmis:userID="16">
         <hmis:PersonalID>3</hmis:PersonalID>
         <hmis:FirstName hashstatus="1">AB</hmis:FirstName>
@@ -151,6 +168,23 @@
         <hmis:Gender>1</hmis:Gender>
         <hmis:VeteranStatus>1</hmis:VeteranStatus>
       </hmis:Client>
+      <hmis:ClientVeteranStatus hmis:DateCreated="2005-06-10T18:44:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:ClientVeteranInfoID>8vet</hmis:ClientVeteranInfoID>
+        <hmis:PersonalID>8</hmis:PersonalID>
+        <hmis:YearEnteredService/>
+        <hmis:YearSeparated/>
+        <hmis:WorldWarII/>
+        <hmis:KoreanWar/>
+        <hmis:VietnamWar/>
+        <hmis:DesertStorm/>
+        <hmis:AfghanistanOEF/>
+        <hmis:IraqOIF/>
+        <hmis:IraqOND/>
+        <hmis:OtherTheater/>
+        <hmis:MilitaryBranch/>
+        <hmis:DischargeStatus/>
+        <hmis:DateCreated>6/10/2005 18:44</hmis:DateCreated>
+      </hmis:ClientVeteranStatus>
       <hmis:Client hmis:DateCreated="2005-06-10T19:18:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
         <hmis:PersonalID>9</hmis:PersonalID>
         <hmis:FirstName hashstatus="1">Jim</hmis:FirstName>
@@ -172,6 +206,23 @@
         <hmis:Gender>1</hmis:Gender>
         <hmis:VeteranStatus>1</hmis:VeteranStatus>
       </hmis:Client>
+      <hmis:ClientVeteranStatus hmis:DateCreated="2005-06-10T19:18:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
+        <hmis:ClientVeteranInfoID>9vet</hmis:ClientVeteranInfoID>
+        <hmis:PersonalID>9</hmis:PersonalID>
+        <hmis:YearEnteredService/>
+        <hmis:YearSeparated/>
+        <hmis:WorldWarII/>
+        <hmis:KoreanWar/>
+        <hmis:VietnamWar/>
+        <hmis:DesertStorm/>
+        <hmis:AfghanistanOEF/>
+        <hmis:IraqOIF/>
+        <hmis:IraqOND/>
+        <hmis:OtherTheater/>
+        <hmis:MilitaryBranch/>
+        <hmis:DischargeStatus/>
+        <hmis:DateCreated>6/10/2005 19:18</hmis:DateCreated>
+      </hmis:ClientVeteranStatus>
       <hmis:Client hmis:DateCreated="2005-06-10T19:41:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="19">
         <hmis:PersonalID>10</hmis:PersonalID>
         <hmis:FirstName hashstatus="1">Armando</hmis:FirstName>
@@ -277,6 +328,23 @@
         <hmis:Gender>0</hmis:Gender>
         <hmis:VeteranStatus>1</hmis:VeteranStatus>
       </hmis:Client>
+      <hmis:ClientVeteranStatus hmis:DateCreated="2005-06-16T12:25:00" hmis:DateUpdated="10/3/2014 4:05" hmis:userID="20">
+        <hmis:ClientVeteranInfoID>14vet</hmis:ClientVeteranInfoID>
+        <hmis:PersonalID>14</hmis:PersonalID>
+        <hmis:YearEnteredService/>
+        <hmis:YearSeparated/>
+        <hmis:WorldWarII/>
+        <hmis:KoreanWar/>
+        <hmis:VietnamWar/>
+        <hmis:DesertStorm/>
+        <hmis:AfghanistanOEF/>
+        <hmis:IraqOIF/>
+        <hmis:IraqOND/>
+        <hmis:OtherTheater/>
+        <hmis:MilitaryBranch/>
+        <hmis:DischargeStatus/>
+        <hmis:DateCreated>6/16/2005 12:25</hmis:DateCreated>
+      </hmis:ClientVeteranStatus>
     </hmis:Export>
   </hmis:Source>
 </hmis:Sources>
